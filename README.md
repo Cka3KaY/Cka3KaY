@@ -8,7 +8,8 @@ I’m currently studying 📚
 ![](https://github-readme-stats.vercel.app/api?username=Cka3KaY&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Cka3KaY&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Cka3KaY&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+# 📊 Leetcode Stats:
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=Cka3kaY)](https://github.com/KnlnKS/leetcode-stats)
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
